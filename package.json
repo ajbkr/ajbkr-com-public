@@ -1,6 +1,6 @@
 {
   "name": "ajbkr-com-public",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "description": "Andrew J. Baker's personal Web site",
   "main": "index.js",
   "scripts": {
